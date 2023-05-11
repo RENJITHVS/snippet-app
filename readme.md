@@ -23,7 +23,7 @@ To set up this application locally, follow these instructions:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/renjithvs/snippet-app.git
+git clone https://github.com/RENJITHVS/snippet-app.git
 ```
 
 2. Move into the project directory:
